@@ -1,0 +1,12 @@
+el cuadrado de un numero 
+
+const cuadrado = (x) => x * x;
+alert (cuadrado(3));
+-------------------------------
+
+listado de numeros con su posicion los dos + son una cadena, pero si lo quitamos nos lo suma 
+
+let lista = [2,4,5,6,7,8]
+alert (lista[2] + " " + lista[4]);
+---------------------------------
+
